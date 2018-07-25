@@ -2,7 +2,7 @@
 
 | MONTH | ITEM | DESCRIPTION | STATUS |
 | :---: | :---: | --- | :---: |
-| July 2018 | Roadmap DRAFT | Roadmap is published to the Anoncash Github repository, and a small group of community members review. | - |
+| July 2018 | Roadmap DRAFT | Roadmap is published to the Anoncash Github repository, and a small group of community members review. | Scott COMPLETE |
 | August 2018 | Community DRAFT | The development and community workflow processes are defined and released to the community for feedback.  Community channels created and configured. | - |
 |   | Architecture DRAFT | Architectural design drafted, and a systems diagram is added to the technical documentation on Anoncash private Github.  Small group of Anoncash community members review. | - |
 |   | White Paper DRAFT | The Anoncash white paper first draft is complete and submitted to a small group of people who will review before making it public. | - |
